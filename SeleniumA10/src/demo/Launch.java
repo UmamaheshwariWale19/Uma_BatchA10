@@ -7,7 +7,7 @@ public class Launch {
 public static void main(String[] args) {
 		
 	WebDriver driver = new ChromeDriver();
-	driver.get("https://www.goibibo.com/");
+	System.out.println("Hello Github");
 
 	}
 
